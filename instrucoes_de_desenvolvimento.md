@@ -138,3 +138,17 @@ Atualizar todo o arquivo README.md com uma descrição simples e intuitiva do pr
 - **`windows_optimizer/README.md`**: O arquivo foi completamente reescrito para ser mais amigável e direto ao ponto.
 - **Conteúdo**: A nova versão inclui uma descrição curta, um placeholder para screenshot, uma lista simplificada de funcionalidades, instruções de uso direto (focadas no executável) e um aviso de responsabilidade.
 - **Placeholder de Imagem**: Um comentário `<!-- Insira aqui um screenshot da aplicação -->` e uma tag de imagem `![Windows Optimizer Screenshot](placeholder.png ...)` foram adicionados para facilitar a inserção de uma imagem da interface.
+
+---
+### Inserção de Imagem no README (Concluído)
+
+**Data:** 2026-01-04
+
+**Solicitação:**
+
+No campo de imagem, centralize uma imagem específica.
+
+**Resultado:**
+
+- **`windows_optimizer/README.md`**: O placeholder de imagem foi substituído pela tag `<img ...>` fornecida.
+- **Centralização**: A imagem foi centralizada envolvendo a tag `<img>` com `<p align="center"> </p>`.

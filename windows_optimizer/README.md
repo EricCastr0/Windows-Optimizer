@@ -2,8 +2,9 @@
 
 Uma ferramenta simples e intuitiva para otimizar e limpar seu sistema Windows com apenas alguns cliques.
 
-<!-- Insira aqui um screenshot da aplicação -->
-![Windows Optimizer Screenshot](placeholder.png "Interface do Windows Optimizer")
+<p align="center">
+  <img width="424" height="302" alt="image" src="https://github.com/user-attachments/assets/cbece9e2-c3da-4cac-9be4-8a4871599a6c" />
+</p>
 
 ## ✨ Funcionalidades Principais
 
