@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Windows Optimizer
+Otimizador de Windows
 Módulo principal da interface gráfica (GUI) construído com Tkinter.
 """
 
@@ -24,7 +24,7 @@ class App(tk.Tk):
             self.destroy()
             return
 
-        self.title("Windows Optimizer")
+        self.title("Otimizador de Windows")
         self.configure_window()
         self.create_widgets()
 
@@ -65,7 +65,7 @@ class App(tk.Tk):
         self.log_text.pack(fill=tk.BOTH, expand=True)
         
         # --- Título Principal ---
-        header_label = ttk.Label(top_frame, text="Otimizador de Desempenho", style="Header.TLabel", anchor="center")
+        header_label = ttk.Label(top_frame, text="Otimizador de Windows", style="Header.TLabel", anchor="center")
         header_label.pack(fill=tk.X, pady=(10, 20))
 
         # --- Container para os cartões ---

@@ -1,4 +1,4 @@
-# Windows Optimizer 🚀
+# Otimizador de Windows 🚀
 
 Uma ferramenta simples e intuitiva para otimizar e limpar seu sistema Windows com apenas alguns cliques.
 
@@ -8,7 +8,7 @@ Uma ferramenta simples e intuitiva para otimizar e limpar seu sistema Windows co
 
 ## ✨ Funcionalidades Principais
 
-O Windows Optimizer organiza as otimizações em três categorias claras:
+O Otimizador de Windows organiza as otimizações em três categorias claras:
 
 - **🧹 Limpeza:** Libere espaço em disco removendo arquivos temporários e esvaziando a lixeira.
 - **⚡ Desempenho:** Melhore a velocidade do sistema ativando o plano de energia de "Alto Desempenho" e limpando caches de atualização.
@@ -16,7 +16,7 @@ O Windows Optimizer organiza as otimizações em três categorias claras:
 
 ## 🚀 Como Usar
 
-1.  Baixe o `WindowsOptimizer.exe` da seção de [Releases](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/releases).
+1.  Baixe o `OtimizadorDeWindows.exe` da seção de [Releases](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/releases).
 2.  Execute o arquivo. O aplicativo solicitará permissão de administrador para funcionar corretamente.
 3.  Clique nos botões correspondentes às otimizações que você deseja realizar.
 4.  Acompanhe o que está acontecendo na área de "Logs de Atividade".

@@ -137,7 +137,7 @@ Atualizar todo o arquivo README.md com uma descrição simples e intuitiva do pr
 
 - **`windows_optimizer/README.md`**: O arquivo foi completamente reescrito para ser mais amigável e direto ao ponto.
 - **Conteúdo**: A nova versão inclui uma descrição curta, um placeholder para screenshot, uma lista simplificada de funcionalidades, instruções de uso direto (focadas no executável) e um aviso de responsabilidade.
-- **Placeholder de Imagem**: Um comentário `<!-- Insira aqui um screenshot da aplicação -->` e uma tag de imagem `![Windows Optimizer Screenshot](placeholder.png ...)` foram adicionados para facilitar a inserção de uma imagem da interface.
+- **Placeholder de Imagem**: Um comentário `<!-- Insira aqui um screenshot da aplicação -->` e uma tag de imagem `![Otimizador de Windows Screenshot](placeholder.png ...)` foram adicionados para facilitar a inserção de uma imagem da interface.
 
 ---
 ### Inserção de Imagem no README (Concluído)
@@ -152,3 +152,21 @@ No campo de imagem, centralize uma imagem específica.
 
 - **`windows_optimizer/README.md`**: O placeholder de imagem foi substituído pela tag `<img ...>` fornecida.
 - **Centralização**: A imagem foi centralizada envolvendo a tag `<img>` com `<p align="center"> </p>`.
+
+---
+### Renomeação da Aplicação (Concluído)
+
+**Data:** 2026-01-04
+
+**Solicitação:**
+
+Mudar o nome da aplicação de "Windows Optimizer" para "Otimizador de Windows" em todos os locais do projeto.
+
+**Resultado:**
+
+- **Busca e Substituição Global**: O nome "Windows Optimizer" foi substituído por "Otimizador de Windows" em todos os arquivos do projeto, incluindo:
+    - Docstrings de todos os arquivos `.py`.
+    - Título da janela em `ui/app.py`.
+    - Conteúdo do `README.md`.
+    - O nome do executável no `README.md` foi alterado de `WindowsOptimizer.exe` para `OtimizadorDeWindows.exe`.
+- **Arquivos Afetados**: `main.py`, `ui/app.py`, `utils/admin_check.py`, `modules/*.py`, `windows_optimizer/README.md`, e `instrucoes_de_desenvolvimento.md`.

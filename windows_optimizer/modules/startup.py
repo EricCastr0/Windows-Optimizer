@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Windows Optimizer
+Otimizador de Windows
 Módulo para gerenciamento de programas que iniciam com o Windows.
 """
 

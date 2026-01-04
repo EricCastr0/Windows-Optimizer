@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Windows Optimizer
+Otimizador de Windows
 Módulo de utilitários para verificação e elevação de privilégios de administrador.
 """
 

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Windows Optimizer
+Otimizador de Windows
 Ponto de entrada principal para a aplicação.
 
 Responsabilidades:
