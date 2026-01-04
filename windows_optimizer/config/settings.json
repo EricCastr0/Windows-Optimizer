@@ -1,0 +1,17 @@
+{
+    "features": {
+        "enable_cleaner": true,
+        "enable_performance_optimizer": true,
+        "enable_network_optimizer": true
+    },
+    "settings": {
+        "theme": "default",
+        "language": "pt_BR",
+        "log_level": "INFO"
+    },
+    "future_pro_features": {
+        "registry_cleaner": false,
+        "service_manager": false,
+        "advanced_tweaks": false
+    }
+}
