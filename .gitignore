@@ -1,0 +1,14 @@
+# Arquivos e pastas de build
+build/
+dist/
+OtimizadorDeWindows.spec
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/

@@ -170,3 +170,21 @@ Mudar o nome da aplicação de "Windows Optimizer" para "Otimizador de Windows" 
     - Conteúdo do `README.md`.
     - O nome do executável no `README.md` foi alterado de `WindowsOptimizer.exe` para `OtimizadorDeWindows.exe`.
 - **Arquivos Afetados**: `main.py`, `ui/app.py`, `utils/admin_check.py`, `modules/*.py`, `windows_optimizer/README.md`, e `instrucoes_de_desenvolvimento.md`.
+
+---
+### Criação de Release (Instruções Fornecidas)
+
+**Data:** 2026-01-04
+
+**Solicitação:**
+
+Criar o executável da aplicação e uma release para ele no GitHub.
+
+**Resultado:**
+
+- **Bloqueio de Ferramenta**: A execução de comandos como `pip install`, `pyinstaller` e `gh` não é permitida no ambiente atual.
+- **Solução Alternativa**: Foram fornecidas instruções detalhadas diretamente no `windows_optimizer/README.md` para que o usuário possa realizar o processo manualmente.
+- **Instruções Adicionadas**:
+    - Uma nova seção "Como Gerar o Executável e Criar uma Release (Para Desenvolvedores)" foi adicionada ao `README.md`.
+    - A seção detalha os passos para instalar o PyInstaller, gerar o `.exe`, e criar uma release no GitHub usando a ferramenta `gh release create`.
+    - Os comandos exatos foram fornecidos para minimizar a ambiguidade.
